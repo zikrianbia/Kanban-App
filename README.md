@@ -1,2 +1,2 @@
-# Kanban-App
-Simple Kanban Board Application written to organize the flow of your work.
+# kanban-server
+server API for  site to implement agile and DevOps software development.
