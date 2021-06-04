@@ -1,0 +1,100 @@
+.landing-page {
+    background: linear-gradient(to top, rgba(245, 246, 252, 0.52), rgba(25, 15, 31, 0.73)), url('../asset/pexels-cottonbro-4064828.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: auto;
+}
+
+.container-header {
+    min-height: 581px;
+}
+
+.container-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-login {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title {
+    margin-bottom: 17rem;
+    margin-right: 15rem;
+    font-size: 5rem;
+    font-family: serif;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff !important;
+    cursor: pointer;
+}
+
+.btn-link {
+    text-decoration: none !important;
+    color: #ffffff !important;
+}
+
+p a input h2 {
+    font-family: 'Source Sans Pro', sans-serif;;
+}
+
+.main-page {
+    min-height:581px;
+    /* background-color: #892cdc; */
+}
+
+.kanban-navbar {
+    background-color: #070404;
+    margin-right: 0 !important;
+    overflow: hidden;
+    /* padding-right: 0 !important; */
+}
+
+.nav-small {
+    font-size: small;
+}
+
+.modal-open {
+    overflow-y: inherit;
+    overflow-y: scroll;
+    margin-right: 0 !important;
+    padding-right: 0 !important;
+}
+
+.card-body {
+    background-color: #ffffff;
+}
+
+.footer-copyright {
+    background-color: #000000;
+}
+
+.kanban-add {
+    text-decoration: none !important;
+    color: #000000 !important;
+}
+
+.kanban-backlog {
+    background-color: #f19696;
+}
+
+.kanban-todo {
+    background-color: #ffed77;
+}
+
+.kanban-done {
+    background-color: #b3e493;
+}
+
+.kanban-completed {
+    background-color: #8bcdcd;
+}
